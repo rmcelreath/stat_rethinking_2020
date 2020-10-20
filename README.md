@@ -9,13 +9,15 @@ Format: Online, flipped instruction. The lectures are pre-recorded. We'll meet o
 
 When: Wednesdays 3-4PM CET, starting 2 December 2020 (see full calendar at bottom). A Zoom link will be given to enrolled students.
 
+Registration: Please sign up via <[EventBright](https://www.eventbrite.co.uk/e/statistical-rethinking-course-winter-20202021-tickets-126062047979)>. I've also set aside 100 audit tickets at the same link, for people who want to participate, but who don't need graded work and course credit. Apologies for using an external service, but it will make distributing the access information and course materials easier for all of us.
+
 # Book
 
 We'll use the 2nd edition of my book, Statistical Rethinking. I'll provide a PDF of the book to enrolled students.
 
 # Lectures
 
-The full lecture video playlist is here: <[Statistical Rethinking 2019](https://www.youtube.com/playlist?list=PLDcUM9US4XdNM4Edgs7weiyIguLSToZRI)>. Links to individual lectures, slides and videos are in the calendar at the very bottom. 
+The full lecture video playlist is here: <YouTube:[Statistical Rethinking 2019](https://www.youtube.com/playlist?list=PLDcUM9US4XdNM4Edgs7weiyIguLSToZRI)>. Links to individual lectures, slides and videos are in the calendar at the very bottom. 
 
 # Code examples
 
